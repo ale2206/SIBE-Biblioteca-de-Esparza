@@ -9,6 +9,7 @@ using AccesoDatos;
 
 // Puto el que lo lea
 //ljhgkhjgikluhgljkglhjkgkluijgljkgfdf
+// ivan guapo
 namespace LogicaNegocios
 {
     public class LogicaNegocioUsuario
