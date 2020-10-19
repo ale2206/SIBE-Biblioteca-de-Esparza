@@ -7,6 +7,7 @@ using Entidades;
 using System.Data.SqlClient;
 using AccesoDatos;
 
+// Puto el que lo lea
 namespace LogicaNegocios
 {
     public class LogicaNegocioUsuario
