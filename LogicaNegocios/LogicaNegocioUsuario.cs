@@ -8,6 +8,7 @@ using System.Data.SqlClient;
 using AccesoDatos;
 
 // Puto el que lo lea
+//ljhgkhjgikluhgljkglhjkgkluijgljkgfdf
 namespace LogicaNegocios
 {
     public class LogicaNegocioUsuario
