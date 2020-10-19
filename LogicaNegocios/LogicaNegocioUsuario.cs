@@ -11,6 +11,7 @@ using AccesoDatos;
 //ljhgkhjgikluhgljkglhjkgkluijgljkgfdf
 // ivan guapo
 //el chichi
+//ME CAGO EN LA PUTA
 namespace LogicaNegocios
 {
     public class LogicaNegocioUsuario
