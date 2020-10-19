@@ -1,0 +1,274 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{C2DBF16F-6FD3-4E87-B699-171218691CB9}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Vistas</RootNamespace>
+    <AssemblyName>Vista Usuario</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>D:\PC-USER-TH021V\Escritorio\Ejecutable Aplicacion Oficina de Deportes\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>4</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>55233EE740EA1CC4CBDF6E2EF2FEE537A64D5EF3</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>Vistas_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FRMConsultaInventario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRMConsultaInventario.designer.cs">
+      <DependentUpon>FRMConsultaInventario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRMConsultaUsuariosInstalaciones.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRMConsultaUsuariosInstalaciones.Designer.cs">
+      <DependentUpon>FRMConsultaUsuariosInstalaciones.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRMControlHoras.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRMControlHoras.Designer.cs">
+      <DependentUpon>FRMControlHoras.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRMControlUsuarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRMControlUsuarios.Designer.cs">
+      <DependentUpon>FRMControlUsuarios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRMDevolucion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRMDevolucion.designer.cs">
+      <DependentUpon>FRMDevolucion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRMEstudiante.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRMEstudiante.designer.cs">
+      <DependentUpon>FRMEstudiante.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRMHorasEstudiantes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRMHorasEstudiantes.Designer.cs">
+      <DependentUpon>FRMHorasEstudiantes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRMInventario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRMInventario.designer.cs">
+      <DependentUpon>FRMInventario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRMListadoUsuarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRMListadoUsuarios.Designer.cs">
+      <DependentUpon>FRMListadoUsuarios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRMListadoEstudiantes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRMListadoEstudiantes.designer.cs">
+      <DependentUpon>FRMListadoEstudiantes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRMLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRMLogin.Designer.cs">
+      <DependentUpon>FRMLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRMMenuPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRMMenuPrincipal.Designer.cs">
+      <DependentUpon>FRMMenuPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRMPrestamo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRMPrestamo.Designer.cs">
+      <DependentUpon>FRMPrestamo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRMUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRMUsuario.Designer.cs">
+      <DependentUpon>FRMUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PanelGradiente.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="FRMConsultaInventario.resx">
+      <DependentUpon>FRMConsultaInventario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRMConsultaUsuariosInstalaciones.resx">
+      <DependentUpon>FRMConsultaUsuariosInstalaciones.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRMControlHoras.resx">
+      <DependentUpon>FRMControlHoras.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRMControlUsuarios.resx">
+      <DependentUpon>FRMControlUsuarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRMDevolucion.resx">
+      <DependentUpon>FRMDevolucion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRMEstudiante.resx">
+      <DependentUpon>FRMEstudiante.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRMHorasEstudiantes.resx">
+      <DependentUpon>FRMHorasEstudiantes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRMInventario.resx">
+      <DependentUpon>FRMInventario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRMListadoUsuarios.resx">
+      <DependentUpon>FRMListadoUsuarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRMListadoEstudiantes.resx">
+      <DependentUpon>FRMListadoEstudiantes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRMLogin.resx">
+      <DependentUpon>FRMLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRMMenuPrincipal.resx">
+      <DependentUpon>FRMMenuPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRMPrestamo.resx">
+      <DependentUpon>FRMPrestamo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRMUsuario.resx">
+      <DependentUpon>FRMUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="Vistas_TemporaryKey.pfx" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\AccesoDatos\AccesoDatos.csproj">
+      <Project>{789c450a-d658-44db-932c-7fd6815857ee}</Project>
+      <Name>AccesoDatos</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Entidades\Entidades.csproj">
+      <Project>{94deaa20-3655-481a-a808-2211d2c4175e}</Project>
+      <Name>Entidades</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\LogicaNegocios\LogicaNegocios.csproj">
+      <Project>{2bc045e8-2872-4c02-9c4e-69e9bf0fca3e}</Project>
+      <Name>LogicaNegocios</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delete_40623.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\loupe_78956.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\add_icon-icons.com_74429.ico" />
+    <Content Include="Resources\document_3530.ico" />
+    <Content Include="Resources\Exit_41038.ico" />
+    <Content Include="Resources\stopwatchminimono_105821.ico" />
+    <Content Include="Resources\UserAdd_40960.ico" />
+    <Content Include="Resources\UserEdit_40958.ico" />
+    <Content Include="Resources\UserRemove_40959.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.7.2 %28x86 y x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
