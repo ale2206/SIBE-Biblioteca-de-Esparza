@@ -59,7 +59,7 @@
             this.buttonEliminar = new System.Windows.Forms.Button();
             this.buttonModificar = new System.Windows.Forms.Button();
             this.buttonAgregar = new System.Windows.Forms.Button();
-            this.panelGradiente1 = new Vistas.PanelGradiente();
+           // this.panelGradiente1 = new Vistas.PanelGradiente();
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDownPeso)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDownCantidadMalEstado)).BeginInit();
@@ -68,7 +68,7 @@
             this.panel2.SuspendLayout();
             this.panel3.SuspendLayout();
             this.panel4.SuspendLayout();
-            this.panelGradiente1.SuspendLayout();
+            //this.panelGradiente1.SuspendLayout();
             this.SuspendLayout();
             // 
             // panel1
@@ -400,16 +400,16 @@
             // 
             // panelGradiente1
             // 
-            this.panelGradiente1.ColorBottom = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(93)))), ((int)(((byte)(164)))));
-            this.panelGradiente1.ColorTop = System.Drawing.Color.Empty;
-            this.panelGradiente1.Controls.Add(this.panel3);
-            this.panelGradiente1.Controls.Add(this.panel4);
-            this.panelGradiente1.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.panelGradiente1.Location = new System.Drawing.Point(0, 0);
-            this.panelGradiente1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
-            this.panelGradiente1.Name = "panelGradiente1";
-            this.panelGradiente1.Size = new System.Drawing.Size(1316, 510);
-            this.panelGradiente1.TabIndex = 4;
+            //this.panelGradiente1.ColorBottom = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(93)))), ((int)(((byte)(164)))));
+            //this.panelGradiente1.ColorTop = System.Drawing.Color.Empty;
+            //this.panelGradiente1.Controls.Add(this.panel3);
+            //this.panelGradiente1.Controls.Add(this.panel4);
+            //this.panelGradiente1.Dock = System.Windows.Forms.DockStyle.Fill;
+            //this.panelGradiente1.Location = new System.Drawing.Point(0, 0);
+            //this.panelGradiente1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            //this.panelGradiente1.Name = "panelGradiente1";
+            //this.panelGradiente1.Size = new System.Drawing.Size(1316, 510);
+            //this.panelGradiente1.TabIndex = 4;
             // 
             // FRMInventario
             // 
@@ -418,7 +418,7 @@
             this.ClientSize = new System.Drawing.Size(1316, 510);
             this.Controls.Add(this.panel2);
             this.Controls.Add(this.panel1);
-            this.Controls.Add(this.panelGradiente1);
+            //this.Controls.Add(this.panelGradiente1);
             this.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.Name = "FRMInventario";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
@@ -435,7 +435,7 @@
             this.panel3.ResumeLayout(false);
             this.panel3.PerformLayout();
             this.panel4.ResumeLayout(false);
-            this.panelGradiente1.ResumeLayout(false);
+            //this.panelGradiente1.ResumeLayout(false);
             this.ResumeLayout(false);
 
         }
@@ -472,7 +472,7 @@
         private System.Windows.Forms.Label labelMaterial;
         private System.Windows.Forms.Label labelUnidadMasa;
         private System.Windows.Forms.Label labelPeso;
-        private PanelGradiente panelGradiente1;
+        //private PanelGradiente panelGradiente1;
     }
 }
 

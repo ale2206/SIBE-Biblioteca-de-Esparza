@@ -38,7 +38,7 @@
             this.Column2 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.panel1 = new System.Windows.Forms.Panel();
             this.panel2 = new System.Windows.Forms.Panel();
-            this.panelGradiente1 = new Vistas.PanelGradiente();
+            //this.panelGradiente1 = new Vistas.PanelGradiente();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridViewUsuariosInstalacionesDia)).BeginInit();
             this.panel1.SuspendLayout();
             this.panel2.SuspendLayout();
@@ -140,13 +140,13 @@
             // 
             // panelGradiente1
             // 
-            this.panelGradiente1.ColorBottom = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(93)))), ((int)(((byte)(164)))));
-            this.panelGradiente1.ColorTop = System.Drawing.Color.Empty;
-            this.panelGradiente1.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.panelGradiente1.Location = new System.Drawing.Point(0, 0);
-            this.panelGradiente1.Name = "panelGradiente1";
-            this.panelGradiente1.Size = new System.Drawing.Size(866, 539);
-            this.panelGradiente1.TabIndex = 13;
+            //this.panelGradiente1.ColorBottom = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(93)))), ((int)(((byte)(164)))));
+            //this.panelGradiente1.ColorTop = System.Drawing.Color.Empty;
+            //this.panelGradiente1.Dock = System.Windows.Forms.DockStyle.Fill;
+            //this.panelGradiente1.Location = new System.Drawing.Point(0, 0);
+            //this.panelGradiente1.Name = "panelGradiente1";
+            //this.panelGradiente1.Size = new System.Drawing.Size(866, 539);
+            //this.panelGradiente1.TabIndex = 13;
             // 
             // FRMControlUsuarios
             // 
@@ -156,7 +156,7 @@
             this.ClientSize = new System.Drawing.Size(866, 539);
             this.Controls.Add(this.panel2);
             this.Controls.Add(this.panel1);
-            this.Controls.Add(this.panelGradiente1);
+            //this.Controls.Add(this.panelGradiente1);
             this.Margin = new System.Windows.Forms.Padding(2);
             this.Name = "FRMControlUsuarios";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
@@ -179,7 +179,7 @@
         private System.Windows.Forms.DataGridViewTextBoxColumn identificacion;
         private System.Windows.Forms.DataGridViewTextBoxColumn Column1;
         private System.Windows.Forms.DataGridViewTextBoxColumn Column2;
-        private PanelGradiente panelGradiente1;
+        //private PanelGradiente panelGradiente1;
     }
 }
 
