@@ -1,0 +1,35 @@
+D:\PC-USER-TH021V\Documentos\SIBE Biblioteca de Esparza\Sistema Git\Vista Usuario\bin\Debug\Vista Usuario.exe.config
+D:\PC-USER-TH021V\Documentos\SIBE Biblioteca de Esparza\Sistema Git\Vista Usuario\bin\Debug\Vista Usuario.exe.manifest
+D:\PC-USER-TH021V\Documentos\SIBE Biblioteca de Esparza\Sistema Git\Vista Usuario\bin\Debug\Vista Usuario.application
+D:\PC-USER-TH021V\Documentos\SIBE Biblioteca de Esparza\Sistema Git\Vista Usuario\bin\Debug\Vista Usuario.exe
+D:\PC-USER-TH021V\Documentos\SIBE Biblioteca de Esparza\Sistema Git\Vista Usuario\bin\Debug\Vista Usuario.pdb
+D:\PC-USER-TH021V\Documentos\SIBE Biblioteca de Esparza\Sistema Git\Vista Usuario\bin\Debug\AccesoDatos.dll
+D:\PC-USER-TH021V\Documentos\SIBE Biblioteca de Esparza\Sistema Git\Vista Usuario\bin\Debug\Entidades.dll
+D:\PC-USER-TH021V\Documentos\SIBE Biblioteca de Esparza\Sistema Git\Vista Usuario\bin\Debug\LogicaNegocios.dll
+D:\PC-USER-TH021V\Documentos\SIBE Biblioteca de Esparza\Sistema Git\Vista Usuario\bin\Debug\AccesoDatos.pdb
+D:\PC-USER-TH021V\Documentos\SIBE Biblioteca de Esparza\Sistema Git\Vista Usuario\bin\Debug\AccesoDatos.dll.config
+D:\PC-USER-TH021V\Documentos\SIBE Biblioteca de Esparza\Sistema Git\Vista Usuario\bin\Debug\Entidades.pdb
+D:\PC-USER-TH021V\Documentos\SIBE Biblioteca de Esparza\Sistema Git\Vista Usuario\bin\Debug\LogicaNegocios.pdb
+D:\PC-USER-TH021V\Documentos\SIBE Biblioteca de Esparza\Sistema Git\Vista Usuario\obj\Debug\Vistas.csprojAssemblyReference.cache
+D:\PC-USER-TH021V\Documentos\SIBE Biblioteca de Esparza\Sistema Git\Vista Usuario\obj\Debug\Vistas.FRMConsultaInventario.resources
+D:\PC-USER-TH021V\Documentos\SIBE Biblioteca de Esparza\Sistema Git\Vista Usuario\obj\Debug\Vistas.FRMConsultaUsuariosInstalaciones.resources
+D:\PC-USER-TH021V\Documentos\SIBE Biblioteca de Esparza\Sistema Git\Vista Usuario\obj\Debug\Vistas.FRMControlHoras.resources
+D:\PC-USER-TH021V\Documentos\SIBE Biblioteca de Esparza\Sistema Git\Vista Usuario\obj\Debug\Vistas.FRMControlUsuarios.resources
+D:\PC-USER-TH021V\Documentos\SIBE Biblioteca de Esparza\Sistema Git\Vista Usuario\obj\Debug\Vistas.FRMDevolucion.resources
+D:\PC-USER-TH021V\Documentos\SIBE Biblioteca de Esparza\Sistema Git\Vista Usuario\obj\Debug\Vistas.FRMEstudiante.resources
+D:\PC-USER-TH021V\Documentos\SIBE Biblioteca de Esparza\Sistema Git\Vista Usuario\obj\Debug\Vistas.FRMHorasEstudiantes.resources
+D:\PC-USER-TH021V\Documentos\SIBE Biblioteca de Esparza\Sistema Git\Vista Usuario\obj\Debug\Vistas.FRMInventario.resources
+D:\PC-USER-TH021V\Documentos\SIBE Biblioteca de Esparza\Sistema Git\Vista Usuario\obj\Debug\Vistas.FRMListadoUsuarios.resources
+D:\PC-USER-TH021V\Documentos\SIBE Biblioteca de Esparza\Sistema Git\Vista Usuario\obj\Debug\Vistas.FRMListadoEstudiantes.resources
+D:\PC-USER-TH021V\Documentos\SIBE Biblioteca de Esparza\Sistema Git\Vista Usuario\obj\Debug\Vistas.FRMLogin.resources
+D:\PC-USER-TH021V\Documentos\SIBE Biblioteca de Esparza\Sistema Git\Vista Usuario\obj\Debug\Vistas.FRMMenuPrincipal.resources
+D:\PC-USER-TH021V\Documentos\SIBE Biblioteca de Esparza\Sistema Git\Vista Usuario\obj\Debug\Vistas.FRMPrestamo.resources
+D:\PC-USER-TH021V\Documentos\SIBE Biblioteca de Esparza\Sistema Git\Vista Usuario\obj\Debug\Vistas.FRMUsuario.resources
+D:\PC-USER-TH021V\Documentos\SIBE Biblioteca de Esparza\Sistema Git\Vista Usuario\obj\Debug\Vistas.Properties.Resources.resources
+D:\PC-USER-TH021V\Documentos\SIBE Biblioteca de Esparza\Sistema Git\Vista Usuario\obj\Debug\Vistas.csproj.GenerateResource.cache
+D:\PC-USER-TH021V\Documentos\SIBE Biblioteca de Esparza\Sistema Git\Vista Usuario\obj\Debug\Vistas.csproj.CoreCompileInputs.cache
+D:\PC-USER-TH021V\Documentos\SIBE Biblioteca de Esparza\Sistema Git\Vista Usuario\obj\Debug\Vista Usuario.exe.manifest
+D:\PC-USER-TH021V\Documentos\SIBE Biblioteca de Esparza\Sistema Git\Vista Usuario\obj\Debug\Vista Usuario.application
+D:\PC-USER-TH021V\Documentos\SIBE Biblioteca de Esparza\Sistema Git\Vista Usuario\obj\Debug\Vistas.csproj.CopyComplete
+D:\PC-USER-TH021V\Documentos\SIBE Biblioteca de Esparza\Sistema Git\Vista Usuario\obj\Debug\Vista Usuario.exe
+D:\PC-USER-TH021V\Documentos\SIBE Biblioteca de Esparza\Sistema Git\Vista Usuario\obj\Debug\Vista Usuario.pdb

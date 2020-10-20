@@ -1,0 +1,12 @@
+D:\PC-USER-TH021V\Documentos\SIBE Biblioteca de Esparza\Sistema Git\LogicaNegocios\bin\Debug\LogicaNegocios.dll
+D:\PC-USER-TH021V\Documentos\SIBE Biblioteca de Esparza\Sistema Git\LogicaNegocios\bin\Debug\LogicaNegocios.pdb
+D:\PC-USER-TH021V\Documentos\SIBE Biblioteca de Esparza\Sistema Git\LogicaNegocios\bin\Debug\AccesoDatos.dll
+D:\PC-USER-TH021V\Documentos\SIBE Biblioteca de Esparza\Sistema Git\LogicaNegocios\bin\Debug\Entidades.dll
+D:\PC-USER-TH021V\Documentos\SIBE Biblioteca de Esparza\Sistema Git\LogicaNegocios\bin\Debug\AccesoDatos.pdb
+D:\PC-USER-TH021V\Documentos\SIBE Biblioteca de Esparza\Sistema Git\LogicaNegocios\bin\Debug\AccesoDatos.dll.config
+D:\PC-USER-TH021V\Documentos\SIBE Biblioteca de Esparza\Sistema Git\LogicaNegocios\bin\Debug\Entidades.pdb
+D:\PC-USER-TH021V\Documentos\SIBE Biblioteca de Esparza\Sistema Git\LogicaNegocios\obj\Debug\LogicaNegocios.csprojAssemblyReference.cache
+D:\PC-USER-TH021V\Documentos\SIBE Biblioteca de Esparza\Sistema Git\LogicaNegocios\obj\Debug\LogicaNegocios.csproj.CoreCompileInputs.cache
+D:\PC-USER-TH021V\Documentos\SIBE Biblioteca de Esparza\Sistema Git\LogicaNegocios\obj\Debug\LogicaNegocios.csproj.CopyComplete
+D:\PC-USER-TH021V\Documentos\SIBE Biblioteca de Esparza\Sistema Git\LogicaNegocios\obj\Debug\LogicaNegocios.dll
+D:\PC-USER-TH021V\Documentos\SIBE Biblioteca de Esparza\Sistema Git\LogicaNegocios\obj\Debug\LogicaNegocios.pdb

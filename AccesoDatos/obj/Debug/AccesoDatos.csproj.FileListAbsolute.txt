@@ -1,0 +1,12 @@
+D:\PC-USER-TH021V\Documentos\SIBE Biblioteca de Esparza\Sistema Git\AccesoDatos\bin\Debug\AccesoDatos.dll.config
+D:\PC-USER-TH021V\Documentos\SIBE Biblioteca de Esparza\Sistema Git\AccesoDatos\bin\Debug\AccesoDatos.dll
+D:\PC-USER-TH021V\Documentos\SIBE Biblioteca de Esparza\Sistema Git\AccesoDatos\bin\Debug\AccesoDatos.pdb
+D:\PC-USER-TH021V\Documentos\SIBE Biblioteca de Esparza\Sistema Git\AccesoDatos\bin\Debug\EntityFramework.dll
+D:\PC-USER-TH021V\Documentos\SIBE Biblioteca de Esparza\Sistema Git\AccesoDatos\bin\Debug\EntityFramework.SqlServer.dll
+D:\PC-USER-TH021V\Documentos\SIBE Biblioteca de Esparza\Sistema Git\AccesoDatos\bin\Debug\EntityFramework.xml
+D:\PC-USER-TH021V\Documentos\SIBE Biblioteca de Esparza\Sistema Git\AccesoDatos\bin\Debug\EntityFramework.SqlServer.xml
+D:\PC-USER-TH021V\Documentos\SIBE Biblioteca de Esparza\Sistema Git\AccesoDatos\obj\Debug\AccesoDatos.csprojAssemblyReference.cache
+D:\PC-USER-TH021V\Documentos\SIBE Biblioteca de Esparza\Sistema Git\AccesoDatos\obj\Debug\AccesoDatos.csproj.CoreCompileInputs.cache
+D:\PC-USER-TH021V\Documentos\SIBE Biblioteca de Esparza\Sistema Git\AccesoDatos\obj\Debug\AccesoDatos.csproj.CopyComplete
+D:\PC-USER-TH021V\Documentos\SIBE Biblioteca de Esparza\Sistema Git\AccesoDatos\obj\Debug\AccesoDatos.dll
+D:\PC-USER-TH021V\Documentos\SIBE Biblioteca de Esparza\Sistema Git\AccesoDatos\obj\Debug\AccesoDatos.pdb

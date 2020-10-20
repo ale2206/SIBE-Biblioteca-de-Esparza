@@ -1,0 +1,6 @@
+D:\PC-USER-TH021V\Documentos\SIBE Biblioteca de Esparza\Sistema Git\Entidades\bin\Debug\Entidades.dll
+D:\PC-USER-TH021V\Documentos\SIBE Biblioteca de Esparza\Sistema Git\Entidades\bin\Debug\Entidades.pdb
+D:\PC-USER-TH021V\Documentos\SIBE Biblioteca de Esparza\Sistema Git\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+D:\PC-USER-TH021V\Documentos\SIBE Biblioteca de Esparza\Sistema Git\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\PC-USER-TH021V\Documentos\SIBE Biblioteca de Esparza\Sistema Git\Entidades\obj\Debug\Entidades.dll
+D:\PC-USER-TH021V\Documentos\SIBE Biblioteca de Esparza\Sistema Git\Entidades\obj\Debug\Entidades.pdb
