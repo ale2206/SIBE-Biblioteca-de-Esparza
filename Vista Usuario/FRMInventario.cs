@@ -303,7 +303,6 @@ namespace Vistas
                 modificar = 0;
                 estadoInicial();
         }
-        //jhgkjgkggkjhgkjgk
 
         private void FRMInventario_Load(object sender, EventArgs e)
         {
